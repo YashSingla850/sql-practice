@@ -36,7 +36,7 @@ show databases ;
 show tables; 
 show columns from dog;
 
- desc dog; 
+  
  
  -- delete table
  -- drop table <table_name>;
